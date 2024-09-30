@@ -48,21 +48,8 @@ class DefaultFirebaseOptions {
         );
     }
   }
+/*
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCJf4vXiek0lHNPRCs2lyDYZGaIGXljCdM',
-    appId: '1:52901258627:android:a071df6cc849e1e786c2b6',
-    messagingSenderId: '52901258627',
-    projectId: 'exercise-coach-fe384',
-    storageBucket: 'exercise-coach-fe384.appspot.com',
-  );
 
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCI12qKmsfXpaPE5--iQbvA29SaQ3phSK0',
-    appId: '1:52901258627:ios:820b6edf2ca000fd86c2b6',
-    messagingSenderId: '52901258627',
-    projectId: 'exercise-coach-fe384',
-    storageBucket: 'exercise-coach-fe384.appspot.com',
-    iosBundleId: 'com.example.exercisecoach',
-  );
+ */
 }
